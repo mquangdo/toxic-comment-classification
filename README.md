@@ -1,1 +1,1 @@
-# toxic-comment-classification
+# The final project for SIC
