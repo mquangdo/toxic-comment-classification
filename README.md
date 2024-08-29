@@ -1,1 +1,1 @@
-# The final project for SIC
+# The final project of SIC
